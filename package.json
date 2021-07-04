@@ -1,0 +1,37 @@
+{
+  "name": "sorted-value-map",
+  "version": "1.0.0",
+  "description": "Map sorted by value",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test:lint && npm run test:tape",
+    "test:lint": "standard",
+    "test:tape": "tape ./tests/*.js"
+  },
+  "dependencies": {
+    "avl": "1.5.1"
+  },
+  "devDependencies": {
+    "standard": "latest",
+    "tape": "^5.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxhotel/sorted-value-map.git"
+  },
+  "keywords": [
+    "map",
+    "sort",
+    "sorted",
+    "value",
+    "values",
+    "key",
+    "keys"
+  ],
+  "author": "Alex <alxmorais8@msn.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alxhotel/sorted-value-map/issues"
+  },
+  "homepage": "https://github.com/alxhotel/sorted-value-map#readme"
+}
