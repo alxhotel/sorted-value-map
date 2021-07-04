@@ -36,9 +36,9 @@ SortedValueMap uses the same API as the official [Map](https://developer.mozilla
 
 ### `const map = new SortedValueMap([comparator])`
 
-### `map.insert(key, value)`
+### `map.set(key, value)`
 
-### `map.remove(key)`
+### `map.delete(key)`
 
 ### `map.size`
 
