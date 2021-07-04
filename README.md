@@ -1,5 +1,8 @@
 # sorted-value-map
 
+[![NPM Version](https://img.shields.io/npm/v/sorted-value-map.svg)](https://www.npmjs.com/package/sorted-value-map)
+[![Build status](https://github.com/alxhotel/sorted-value-map/actions/workflows/ci.yml/badge.svg)](https://github.com/alxhotel/sorted-value-map)
+
 Map with sorted values.
 
 ## Install
