@@ -9,7 +9,7 @@
     "test:tape": "tape ./tests/*.js"
   },
   "dependencies": {
-    "avl": "1.5.1"
+    "avl": "1.5.2"
   },
   "devDependencies": {
     "standard": "latest",
